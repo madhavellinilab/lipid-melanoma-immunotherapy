@@ -229,4 +229,146 @@
 
 53. Vivas-Garcia Y, Falletta P, Liebing J, Louphrasitthiphol P, Feng Y, Chauhan J, et al. Lineage-restricted regulation of SCD and fatty acid saturation by MITF controls melanoma phenotypic plasticity. Mol Cell. 2020;77(1):120-137.
 
-54. Falchi
+54. Falchi L, Vargas A, Nair JR, Cheng DT, Brown JR, Jain P, et al. Lipidomic profiles in chronic lymphocytic leukemia reveal distinct features differentiating indolent from aggressive disease. Blood Cancer J. 2020;10(5):58.
+
+55. Peck B, Schulze A. Lipid metabolism at the nexus of diet and tumor microenvironment. Trends Cancer. 2019;5(11):693-703.
+
+56. Veglia F, Tyurin VA, Blasi M, De Leo A, Kossenkov AV, Donthireddy L, et al. Fatty acid transport protein 2 reprograms neutrophils in cancer. Nature. 2019;569(7754):73-78.
+
+57. Newman AM, Liu CL, Green MR, Gentles AJ, Feng W, Xu Y, et al. Robust enumeration of cell subsets from tissue expression profiles. Nat Methods. 2015;12(5):453-457.
+
+58. Korotkevich G, Sukhov V, Budin N, Shpak B, Artyomov MN, Sergushichev A. Fast gene set enrichment analysis. bioRxiv. 2021. doi: 10.1101/060012.
+
+59. Liberzon A, Birger C, Thorvaldsdottir H, Ghandi M, Mesirov JP, Tamayo P. The Molecular Signatures Database (MSigDB) hallmark gene set collection. Cell Systems. 2015;1(6):417-425.
+
+60. Ayers M, Lunceford J, Nebozhyn M, Murphy E, Loboda A, Kaufman DR, et al. IFN-γ-related mRNA profile predicts clinical response to PD-1 blockade. J Clin Invest. 2017;127(8):2930-2940.
+
+61. Cristescu R, Mogg R, Ayers M, Albright A, Murphy E, Yearley J, et al. Pan-tumor genomic biomarkers for PD-1 checkpoint blockade-based immunotherapy. Science. 2018;362(6411):eaar3593.
+
+62. Gao J, Shi LZ, Zhao H, Chen J, Xiong L, He Q, et al. Loss of IFN-γ pathway genes in tumor cells as a mechanism of resistance to anti-CTLA-4 therapy. Cell. 2016;167(2):397-404.
+
+63. Zaretsky JM, Garcia-Diaz A, Shin DS, Escuin-Ordinas H, Hugo W, Hu-Lieskovan S, et al. Mutations associated with acquired resistance to PD-1 blockade in melanoma. N Engl J Med. 2016;375(9):819-829.
+
+64. Shin DS, Zaretsky JM, Escuin-Ordinas H, Garcia-Diaz A, Hu-Lieskovan S, Kalbasi A, et al. Primary resistance to PD-1 blockade mediated by JAK1/2 mutations. Cancer Discov. 2017;7(2):188-201.
+
+65. Hörber S, Dahlhoff C, Schneider MR, Wolf E. Genomic aspects of MITF in melanoma and melanocytes. Pigment Cell Melanoma Res. 2013;26(5):647-657.
+
+66. Carreira S, Goodall J, Denat L, Rodriguez M, Nuciforo P, Hoek KS, et al. Mitf regulation of Dia1 controls melanoma proliferation and invasiveness. Genes Dev. 2006;20(24):3426-3439.
+
+67. Caramel J, Papadogeorgakis E, Hill L, Browne GJ, Richard G, Wierinckx A, et al. A switch in the expression of embryonic EMT-inducers drives the development of malignant melanoma. Cancer Cell. 2013;24(4):466-480.
+
+68. Hoek KS, Eichhoff OM, Schlegel NC, Döbbeling U, Kobert N, Schaerer L, et al. In vivo switching of human melanoma cells between proliferative and invasive states. Cancer Res. 2008;68(3):650-656.
+
+69. Guo D, Bell EH, Mischel P, Chakravarti A. Targeting SREBP-1-driven lipid metabolism to treat cancer. Curr Pharm Des. 2014;20(15):2619-2626.
+
+70. Li J, Cheng D, Zhu M, Yu H, Pan Z, Liu L, et al. OTUB2 stabilizes FASN to promote tumor progression in hepatocellular carcinoma via deubiquitination. FEBS Lett. 2019;593(23):3321-3334.
+
+71. Lee JV, Carrer A, Shah S, Snyder NW, Wei S, Venneti S, et al. Akt-dependent metabolic reprogramming regulates tumor cell histone acetylation. Cell Metab. 2014;20(2):306-319.
+
+72. Porstmann T, Santos CR, Griffiths B, Cully M, Wu M, Leevers S, et al. SREBP activity is regulated by mTORC1 and contributes to Akt-dependent cell growth. Cell Metab. 2008;8(3):224-236.
+
+73. Fritz V, Fajas L. Metabolism and proliferation share common regulatory pathways in cancer cells. Oncogene. 2010;29(31):4369-4377.
+
+74. Guri Y, Colombi M, Dazert E, Hindupur SK, Roszik J, Moes S, et al. mTORC2 promotes tumorigenesis via lipid synthesis. Cancer Cell. 2017;32(6):807-823.
+
+75. Koundouros N, Poulogiannis G. Reprogramming of fatty acid metabolism in cancer. Br J Cancer. 2020;122(1):4-22.
+
+76. Samstein RM, Lee CH, Shoushtari AN, Hellmann MD, Shen R, Janjigian YY, et al. Tumor mutational burden predicts survival after immunotherapy across multiple cancer types. Nat Genet. 2019;51(2):202-206.
+
+77. Goodman AM, Kato S, Bazhenova L, Patel SP, Frampton GM, Miller V, et al. Tumor mutational burden as an independent predictor of response to immunotherapy in diverse cancers. Mol Cancer Ther. 2017;16(11):2598-2608.
+
+78. Davies H, Bignell GR, Cox C, Stephens P, Edkins S, Clegg S, et al. Mutations of the BRAF gene in human cancer. Nature. 2002;417(6892):949-954.
+
+79. Wang D, DuBois RN. Eicosanoids and cancer. Nat Rev Cancer. 2010;10(3):181-193.
+
+80. Chowdhury PS, Chamoto K, Kumar A, Honjo T. PPAR-induced fatty acid oxidation in T cells increases the number of tumor-reactive CD8+ T cells and facilitates anti-PD-1 therapy. Cancer Immunol Res. 2018;6(11):1375-1387.
+
+81. Facciabene A, Motz GT, Coukos G. T-regulatory cells: key players in tumor immune escape and angiogenesis. Cancer Res. 2012;72(9):2162-2171.
+
+82. Tanaka A, Sakaguchi S. Regulatory T cells in cancer immunotherapy. Cell Res. 2017;27(1):109-118.
+
+83. Van den Eynde BJ, van der Bruggen P. T cell defined tumor antigens. Curr Opin Immunol. 1997;9(5):684-693.
+
+84. Dunn GP, Old LJ, Schreiber RD. The three Es of cancer immunoediting. Annu Rev Immunol. 2004;22:329-360.
+
+85. Igney FH, Krammer PH. Immune escape of tumors: apoptosis resistance and tumor counterattack. J Leukoc Biol. 2002;71(6):907-920.
+
+86. Peinado H, Zhang H, Matei IR, Costa-Silva B, Hoshino A, Rodrigues G, et al. Pre-metastatic niches: organ-specific homes for metastases. Nat Rev Cancer. 2017;17(5):302-317.
+
+87. Orillion A, Hashimoto A, Damayanti N, Shen L, Adelaiye-Ogala R, Arisa S, et al. Entinostat neutralizes myeloid-derived suppressor cells and enhances the antitumor effect of PD-1 inhibition in murine models of lung and renal cell carcinoma. Clin Cancer Res. 2017;23(17):5187-5201.
+
+88. Pitt JM, Marabelle A, Eggermont A, Soria JC, Kroemer G, Zitvogel L. Targeting the tumor microenvironment: removing obstruction to anticancer immune responses and immunotherapy. Ann Oncol. 2016;27(8):1482-1492.
+
+89. Kridel R, Sehn LH, Gascoyne RD. Pathogenesis of follicular lymphoma. J Clin Invest. 2012;122(10):3424-3431.
+
+90. Buckley D, Duke G, Heuer TS, O'Farrell M, Wagman AS, McCulloch W, et al. Fatty acid synthase - Modern tumor cell biology insights into a classical oncology target. Pharmacol Ther. 2017;177:23-31.
+
+91. Falchook G, Infante J, Arkenau HT, Patel MR, Dean E, Borazanci E, et al. First-in-human study of the safety, pharmacokinetics, and pharmacodynamics of first-in-class fatty acid synthase inhibitor TVB-2640 alone and with a taxane in advanced tumors. EClinicalMedicine. 2021;34:100797.
+
+92. Ventura R, Mordec K, Waszczuk J, Wang Z, Lai J, Fridlib M, et al. Inhibition of de novo palmitate synthesis by fatty acid synthase induces apoptosis in tumor cells by remodeling cell membranes, inhibiting signaling pathways, and remodeling the cell transcriptome. EBioMedicine. 2015;2(8):808-824.
+
+93. Jiang L, Fang X, Wang H, Li D, Wang X. Ovarian cancer-intrinsic fatty acid synthase prevents anti-tumor immunity by disrupting tumor-infiltrating dendritic cells. Front Immunol. 2018;9:2927.
+
+94. Tang JJ, Li JG, Qi W, Qiu WW, Li PS, Li BL, et al. Inhibition of SREBP by a small molecule, betulin, improves hyperlipidemia and insulin resistance and reduces atherosclerotic plaques. Cell Metab. 2011;13(1):44-56.
+
+95. Gholkar AA, Cheung K, Williams KJ, Lo YC, Hamideh SA, Nnebe C, et al. Fatostatin inhibits cancer cell proliferation by affecting mitotic microtubule spindle assembly and cell division. J Biol Chem. 2016;291(33):17001-17008.
+
+96. Klement RJ, Kämmerer U. Is there a role for carbohydrate restriction in the treatment and prevention of cancer? Nutr Metab (Lond). 2011;8:75.
+
+97. Weber DD, Aminazdeh-Gohari S, Kofler B. Ketogenic diet in cancer therapy. Aging (Albany NY). 2018;10(2):164-165.
+
+98. Lussier DM, Woolf EC, Johnson JL, Brooks KS, Blattman JN, Scheck AC. Enhanced immunity in a mouse model of malignant glioma is mediated by a therapeutic ketogenic diet. BMC Cancer. 2016;16:310.
+
+99. Hopkins BD, Pauli C, Du X, Wang DG, Li X, Wu D, et al. Suppression of insulin feedback enhances the efficacy of PI3K inhibitors. Nature. 2018;560(7719):499-503.
+
+100. Yan Y, Tao H, He J, Huang SY. The HDOCK server for integrated protein-protein docking. Nat Protoc. 2020;15(5):1829-1852.
+
+101. Yadav UP, Singh T, Kumar P, Sharma P, Kaur H, Sharma S, et al. Metabolic adaptations in cancer stem cells. Front Oncol. 2020;10:1010.
+
+102. Luu TH, Bard JM, Carbonnelle D, Chaillou C, Huvelin JM, Bobin-Dubigeon C, et al. Lithocholic bile acid inhibits lipogenesis and induces apoptosis in breast cancer cells. Cell Oncol (Dord). 2018;41(1):13-24.
+
+103. Su P, Wang Q, Bi E, Ma X, Liu L, Yang M, et al. Enhanced lipid accumulation and metabolism are required for the differentiation and activation of tumor-associated macrophages. Cancer Res. 2020;80(7):1438-1450.
+
+104. Zhao F, Xiao C, Evans KS, Theivanthiran T, DeVito N, Holtzhausen A, et al. Paracrine Wnt5a-β-catenin signaling triggers a metabolic program that drives dendritic cell tolerization. Immunity. 2018;48(1):147-160.
+
+105. Bader JE, Voss K, Rathmell JC. Targeting metabolism to improve the tumor microenvironment for cancer immunotherapy. Mol Cell. 2020;78(6):1019-1033.
+
+106. Renner K, Singer K, Koehl GE, Geissler EK, Peter K, Siska PJ, et al. Metabolic hallmarks of tumor and immune cells in the tumor microenvironment. Front Immunol. 2017;8:248.
+
+107. Onodera Y, Nam JM, Bissell MJ. Increased sugar uptake promotes oncogenesis via EPAC/RAP1 and O-GlcNAc pathways. J Clin Invest. 2014;124(1):367-384.
+
+108. Elia I, Schmieder R, Christen S, Fendt SM. Organ-specific cancer metabolism and its potential for therapy. Handb Exp Pharmacol. 2016;233:321-353.
+
+109. Jang C, Chen L, Rabinowitz JD. Metabolomics and isotope tracing. Cell. 2018;173(4):822-837.
+
+110. Boroughs LK, DeBerardinis RJ. Metabolic pathways promoting cancer cell survival and growth. Nat Cell Biol. 2015;17(4):351-359.
+
+111. Wolrab D, Jirásko R, Peterka O, Idkowiak J, Chocholoušková M, Holčapek M. Lipidomic profiling of human serum enables detection of pancreatic cancer. Nat Commun. 2022;13(1):124.
+
+112. Matyash V, Liebisch G, Kurzchalia TV, Shevchenko A, Schwudke D. Lipid extraction by methyl-tert-butyl ether for high-throughput lipidomics. J Lipid Res. 2008;49(5):1137-1146.
+
+113. Kamphorst JJ, Cross JR, Fan J, de Stanchina E, Mathew R, White EP, et al. Hypoxic and Ras-transformed cells support growth by scavenging unsaturated fatty acids from lysophospholipids. Proc Natl Acad Sci USA. 2013;110(22):8882-8887.
+
+114. Satpathy M, Wang L, Zielinski RJ, Qian W, Melendez A, Nandy SK, et al. Targeted drug delivery to tumors via the nanoparticle-albumin carrier technology. Methods Mol Biol. 2013;1030:219-238.
+
+115. Angelo LS, Kurzrock R. Vascular endothelial growth factor and its relationship to inflammatory mediators. Clin Cancer Res. 2007;13(10):2825-2830.
+
+116. Saleh R, Elkord E. Acquired resistance to cancer immunotherapy: Role of tumor-mediated immunosuppression. Semin Cancer Biol. 2020;65:13-27.
+
+117. Galon J, Bruni D. Approaches to treat immune hot, altered and cold tumours with combination immunotherapies. Nat Rev Drug Discov. 2019;18(3):197-218.
+
+118. Greaves M, Maley CC. Clonal evolution in cancer. Nature. 2012;481(7381):306-313.
+
+119. Stoeckius M, Hafemeister C, Stephenson W, Houck-Loomis B, Chattopadhyay PK, Swerdlow H, et al. Simultaneous epitope and transcriptome measurement in single cells. Nat Methods. 2017;14(9):865-868.
+
+120. Stoeckius M, Zheng S, Houck-Loomis B, Hao S, Yeung BZ, Mauck WM 3rd, et al. Cell Hashing with barcoded antibodies enables multiplexing and doublet detection for single cell genomics. Genome Biol. 2018;19(1):224.
+
+121. Ecker J, Liebisch G. Application of stable isotopes to investigate the metabolism of fatty acids, glycerophospholipid and sphingolipid species. Prog Lipid Res. 2014;54:14-31.
+
+122. Beyoğlu D, Idle JR. Metabolomic insights into the mode of action of natural products in the treatment of liver disease. Biochem Pharmacol. 2020;180:114171.
+
+123. Cancer Genome Atlas Research Network. Genomic classification of cutaneous melanoma. Cell. 2015;161(7):1681-1696.
+
+124. Hoadley KA, Yau C, Hinoue T, Wolf DM, Lazar AJ, Drill E, et al. Cell-of-origin patterns dominate the molecular classification of 10,000 tumors from 33 types of cancer. Cell. 2018;173(2):291-304.
+
+125. Hopkins KC, Tartell MA, Herrmann C, Hackett BA, Taschuk F, Panda D, et al. Virus-induced translational arrest through 4EBP1/2-dependent decay of 5'-TOP mRNAs restricts viral infection. Proc Natl Acad Sci USA. 2015;112(46):E6214-E6223.
