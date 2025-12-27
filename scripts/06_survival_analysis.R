@@ -12,7 +12,7 @@ library(survival)
 library(survminer)
 
 # Set working directory
-setwd("/path/to/project")
+# setwd("/path/to/project")  # Commented out - using current working directory
 
 # Create output directories
 dir.create("results", showWarnings = FALSE)
@@ -29,11 +29,11 @@ cat("\n================================================\n")
 cat("\n--- Step 1: Loading data ---\n")
 
 # Load QC-filtered TCGA data
-if (!file.exists("data/tcga_skcm_qc.rds")) {
+if (!file.exists("data/processed/tcga_skcm_qc.rds")) {
   stop("Error: QC-filtered data not found.")
 }
 
-tcga_skcm_qc <- readRDS("data/tcga_skcm_qc.rds")
+tcga_skcm_qc <- readRDS("data/processed/tcga_skcm_qc.rds")
 
 # Load lipid signature scores
 if (!file.exists("results/lipid_score.rds")) {
