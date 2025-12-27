@@ -11,7 +11,7 @@ library(tidyverse)
 library(pheatmap)
 
 # Set working directory
-setwd("/path/to/project")
+# setwd("/path/to/project")  # Commented out - using current working directory
 
 # Create output directories
 dir.create("results", showWarnings = FALSE)
@@ -54,11 +54,11 @@ print(lipid_panel, row.names = FALSE)
 cat("\n--- Step 2: Loading QC-filtered TCGA-SKCM data ---\n")
 
 # Load the QC-filtered SummarizedExperiment
-if (!file.exists("data/tcga_skcm_qc.rds")) {
+if (!file.exists("data/processed/tcga_skcm_qc.rds")) {
   stop("Error: QC-filtered data not found. Please run 03_quality_control.R first.")
 }
 
-tcga_skcm_qc <- readRDS("data/tcga_skcm_qc.rds")
+tcga_skcm_qc <- readRDS("data/processed/tcga_skcm_qc.rds")
 
 cat(sprintf("Loaded data: %d genes x %d samples\n", 
             nrow(tcga_skcm_qc), ncol(tcga_skcm_qc)))
